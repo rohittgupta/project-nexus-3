@@ -1,3 +1,2 @@
 # Software Company Website
-
-# Techy Software.
+Techy Software.
